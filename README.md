@@ -67,3 +67,8 @@ Test results will be output to the console and can also be found in the target/s
 
 # Screenshot of Report
 ![junit test summary report2](https://i.postimg.cc/G38mDKdX/junit-test-summary-report-2.png)
+
+# Record Video of JUnit Automation Test
+
+https://github.com/user-attachments/assets/3b57b0ef-ebf0-445d-a5ff-0a25ca04cfd3 
+
