@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyJunit2" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-17T04:07:18" hostname="DESKTOP-HTK9N1T" time="27.241">
+  <properties/>
+  <testcase name="registrationForm()" classname="MyJunit2" time="27.241"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
