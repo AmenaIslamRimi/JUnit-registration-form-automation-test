@@ -1,4 +1,4 @@
-# JUnit-registration-form-automation-test
+# JUnit2-registration-form-automation-test
 # Overview
 This repository contains an automated test suite for the 'registration form automation test' using JUnit, a widely used testing framework for Java. The test suite is designed to ensure the correctness and reliability of the 'registration form automation test' codebase by automating unit tests.
 
